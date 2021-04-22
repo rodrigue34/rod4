@@ -1,6 +1,7 @@
 # Rodrigue Andela
 # 21/04/2021
 # describe how to calculate how many steps does it take before the function reaches 1
+""" tells how many steps we use to calculate the function until he reaches 1"""
 def hailstone(start):
     counter = 0
     while start != 1:
